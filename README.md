@@ -1,9 +1,8 @@
-# Hi there, I'm Ravi Makwana 👋
+![image](https://github.com/user-attachments/assets/b5f95115-6adf-4598-970b-a9f8f56bc934)![image](https://github.com/user-attachments/assets/6a3bad0f-2fe6-4e8b-9563-135b1726318e)# Hi there, I'm Ravi Makwana 👋
 
 Welcome to my GitHub profile!
 
-## About me  ![Programmer GIF](https://path/to/your/gif.gif)
-
+## About me 
 I'm a third-year Computer Science and Engineering student at Nirma University. I’m passionate about Web development,Data Structures and algorithms. always keep Learing and
 coding.
 
