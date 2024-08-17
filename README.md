@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-## About me
+## About me  ![Programmer GIF](https://path/to/your/gif.gif)
 
 I'm a third-year Computer Science and Engineering student at Nirma University. I’m passionate about Web development,Data Structures and algorithms. always keep Learing and
 coding.
