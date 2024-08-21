@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi Makwana</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" src="c:\Users\HP\AppData\Local\Temp\68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6.gif">
+<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw24dvQV_zxlq3tOAHJQGuSP&ust=1724351647712000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNi8mc3chogDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-makwana18&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-makwana18" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack(full stack web-development)**
