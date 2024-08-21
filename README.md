@@ -9,8 +9,8 @@
 
 
 
--I’m currently learning **MERN Stack (full-stack web development)**
--How to reach me: **ravimakwana8205@gmail.com**
+- I’m currently learning **MERN Stack (full-stack web development)**
+- How to reach me: **ravimakwana8205@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
