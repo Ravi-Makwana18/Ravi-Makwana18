@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Makwana</h1>
 <hr>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&color=0000FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Computer+Science+Student;Web+Developer;Competitive+Programmer;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=35&color=0000FF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Computer+Science+Student;Web+Developer;Competitive+Programmer" alt="Typing SVG" />
 </h3>
 
 <!-- About Me Section -->
@@ -53,9 +53,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" style="margin: 5px;"/>
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="60"  style="margin: 5px;"/>
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" style="margin: 5px;"/>
   </a>
@@ -72,23 +69,11 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" style="margin: 5px;"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" style="margin: 5px;"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="60" style="margin: 5px;"/>
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60"  style="margin: 5px;"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60"  style="margin: 5px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60"  style="margin: 5px;"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="60"  style="margin: 5px;"/>
   </a>
 </p>
 <img align="center" alt="HorizontalLine" width="100%" height="50" src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.webp">
