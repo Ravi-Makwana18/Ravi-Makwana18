@@ -14,7 +14,7 @@
 </p>
 <h3 align="center">About Me</h3>
 <p align="center">
-  - I'm Pre-final year Computer Science & Engineering Student at Nirma University.<br>
+  - I'm Final year Computer Science & Engineering Student at Nirma University.<br>
   - Always Learning and coding.<br>
 </p>
 
